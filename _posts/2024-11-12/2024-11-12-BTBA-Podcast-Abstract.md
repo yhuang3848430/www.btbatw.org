@@ -11,7 +11,7 @@ excerpt: '在《生技來一刻》第四季第十二集的訪談中，主持人�
 
 ![image tooltip here]({{ '/blog/2024-11-12_neuro_drug_development.webp' | absolute_url }})
 
-# 藥廠投資組合管理
+# 腦與神經科學
 ## ft. 黃正球博士 Dr. Cheng-Chiu (Joe) Huang
 <iframe src="https://open.spotify.com/embed/episode/2RMQMR8t9mFDxtkFifxUAV?utm_source=generator" width="55%" height="230" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
