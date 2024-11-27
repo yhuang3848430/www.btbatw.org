@@ -12,7 +12,7 @@ title: About
         <hr>
         <!-- <img src="{{ "/assets/img/btba_logo.png" | absolute_url }}" alt="BTBA logo" class="float-left p-4" width="150"> -->
         <p class="">
-            Boston Taiwanese Biotechnology Association (BTBA) was founded in * 2012 by a group of Taiwanese graduate students, postdocs and young professionals in the greater Boston area. Our goals are to enhance scientific collaborations, to foster individual career development, to facilitate interactions and to strengthen networking among academic and industrial bioscience communities in Taiwan and the US. We hold annual symposiums that attract more than 350 young Taiwanese professionals from biology-related fields across the US.
+            Boston Taiwanese Biotechnology Association (BTBA) was founded in 2012 by a group of Taiwanese graduate students, postdocs and young professionals in the greater Boston area. Our goals are to enhance scientific collaborations, to foster individual career development, to facilitate interactions and to strengthen networking among academic and industrial bioscience communities in Taiwan and the US. We hold annual symposiums that attract more than 350 young Taiwanese professionals from biology-related fields across the US.
         </p>
     </div>
 </div>
